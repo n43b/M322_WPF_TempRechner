@@ -1,0 +1,14 @@
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\bin\Debug\net9.0-windows\M322_WPF_TempRechner.exe
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\bin\Debug\net9.0-windows\M322_WPF_TempRechner.deps.json
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\bin\Debug\net9.0-windows\M322_WPF_TempRechner.runtimeconfig.json
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\bin\Debug\net9.0-windows\M322_WPF_TempRechner.dll
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\bin\Debug\net9.0-windows\M322_WPF_TempRechner.pdb
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.AssemblyInfoInputs.cache
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.AssemblyInfo.cs
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.csproj.CoreCompileInputs.cache
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.dll
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\refint\M322_WPF_TempRechner.dll
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.pdb
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.genruntimeconfig.cache
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\ref\M322_WPF_TempRechner.dll
