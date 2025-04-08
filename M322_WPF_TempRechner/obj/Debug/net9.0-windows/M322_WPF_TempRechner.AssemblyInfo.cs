@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M322_WPF_TempRechner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba514519f0135c880a7f7bc2513c68c57c6ab5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("M322_WPF_TempRechner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M322_WPF_TempRechner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

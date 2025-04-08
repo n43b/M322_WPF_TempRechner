@@ -12,3 +12,4 @@ C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug
 C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.pdb
 C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.genruntimeconfig.cache
 C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\ref\M322_WPF_TempRechner.dll
+C:\Users\NaebA\RiderProjects\M322_WPF_TempRechner\M322_WPF_TempRechner\obj\Debug\net9.0-windows\M322_WPF_TempRechner.sourcelink.json

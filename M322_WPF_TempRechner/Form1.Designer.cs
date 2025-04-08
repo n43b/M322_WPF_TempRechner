@@ -65,6 +65,7 @@ partial class Form1
         KC.TabStop = true;
         KC.Text = "°K   ➔   °C";
         KC.UseVisualStyleBackColor = true;
+        KC.CheckedChanged += KC_CheckedChanged;
         // 
         // CF
         // 
@@ -76,6 +77,7 @@ partial class Form1
         CF.TabStop = true;
         CF.Text = "°C   ➔   °F";
         CF.UseVisualStyleBackColor = true;
+        CF.CheckedChanged += CF_CheckedChanged;
         // 
         // FC
         // 
@@ -87,6 +89,7 @@ partial class Form1
         FC.TabStop = true;
         FC.Text = "°F   ➔   °C";
         FC.UseVisualStyleBackColor = true;
+        FC.CheckedChanged += FC_CheckedChanged;
         // 
         // groupBox1
         // 
@@ -152,8 +155,8 @@ partial class Form1
         // 
         // Resultat
         // 
-        Resultat.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)0));
-        Resultat.ForeColor = System.Drawing.Color.Red;
+        Resultat.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)0));
+        Resultat.ForeColor = System.Drawing.SystemColors.Desktop;
         Resultat.Location = new System.Drawing.Point(225, 141);
         Resultat.Name = "Resultat";
         Resultat.Size = new System.Drawing.Size(155, 53);
